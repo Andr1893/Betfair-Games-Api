@@ -18,7 +18,7 @@ namespace BetfairGameApi.Bots
     {
 
         int GameId { get; set; }
-        BetfairCon Bet = new BetfairCon("user", "PW", "maryBrown@AOL.com.myGames.4.0");
+        BetfairCon Bet = new BetfairCon(UserInfo.username, UserInfo.password, "maryBrown@AOL.com.myGames.4.0");
         MarketBook MarketBookPR;
 
         List<GameHands> MybetDutching = new List<GameHands>();

@@ -15,7 +15,7 @@ namespace BetfairGameApi.TO
     {
         public channelSnapshotChannel Channel { get; set; }
         public List<betSnapshotTypeBetSnapshotItem> CurrentBets { get; set; }
-        BetfairCon Bet = new BetfairCon("User", "PW", "maryBrown@AOL.com.myGames.4.0");
+        BetfairCon Bet = new BetfairCon(UserInfo.username, UserInfo.password, "maryBrown@AOL.com.myGames.4.0");
         private static string[] Colors = new string[] { "c", "d", "h", "s" };
         private static string[] Colorshand = new string[] { "a", "2", "3", "4", "5", "6", "7", "8", "9", "10", "j", "q", "k" };
 
