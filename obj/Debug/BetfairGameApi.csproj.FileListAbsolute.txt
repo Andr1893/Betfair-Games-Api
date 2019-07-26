@@ -1,0 +1,44 @@
+c:\users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\BetfairGameApi.dll
+c:\users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\BetfairGameApi.pdb
+c:\users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\obj\Debug\BetfairGameApi.dll
+c:\users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\obj\Debug\BetfairGameApi.pdb
+c:\users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\RestSharp.dll
+c:\users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\RestSharp.xml
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\HandEvaluator.dll
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\BetfairGameApi.dll.config
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Core.dll
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Linq.dll
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Core.xml
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Linq.xml
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\tjlan\onedrive\documentos\visual studio 2017\Projects\BetfairGameApi\BetfairGameApi\obj\Debug\BetfairGameApi.csprojResolveAssemblyReference.cache
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\BetfairGameApi.dll.config
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\BetfairGameApi.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\BetfairGameApi.pdb
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\HandEvaluator.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\RestSharp.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Core.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\RestSharp.xml
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Core.xml
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\obj\Debug\BetfairGameApi.csprojAssemblyReference.cache
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\obj\Debug\BetfairGameApi.csproj.CoreCompileInputs.cache
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\obj\Debug\BetfairGameApi.csproj.CopyComplete
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\obj\Debug\BetfairGameApi.dll
+C:\Users\Andrade\Desktop\PEn\BetfairGameApi\BetfairGameApi\obj\Debug\BetfairGameApi.pdb
