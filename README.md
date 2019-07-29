@@ -34,13 +34,10 @@
 
 
             var Ping = Bet.GetPing().Result.Result;
-            var t = Bet.GetAccountStatement().Result;
-            Console.WriteLine("Iniciar\n\n");
+
+            Console.WriteLine("Init\n\n");
             Console.WriteLine(Ping.credentialCheck);
       
-
-
-            var r = Bet.GetAccountBalance();
 
             var ChannelLanding = Bet.GetChannelLanding().Result.Result;
 
